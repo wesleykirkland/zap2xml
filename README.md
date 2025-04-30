@@ -12,13 +12,13 @@ This is zap2xml with Environment Variables driving the configuration. By default
 You can configure the following environment variables below:
 
 ### Required
-- USERNAME - zap2it.com username
-- PASSWORD - zap2it.com password
+- USERNAME - gracenote.com username
+- PASSWORD - gracenote.com password
 
 ### Optional
 - OPT_ARGS - additional command line arguments for zap2xml
-- USERNAME2 - Second zap2it.com username
-- PASSWORD2 - Second zap2it.com password
+- USERNAME2 - Second gracenote.com username
+- PASSWORD2 - Second gracenote.com password
 - OPT_ARGS2 = additional command line arguments for zap2xml for the second username
 - XMLTV_FILENAME - filename for your xmltv file (default: xmltv.xml)
 - SLEEPTIME - time in seconds to wait before next run (default: 43200)
